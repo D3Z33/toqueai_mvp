@@ -1,0 +1,272 @@
+[
+  {
+    "code": "CHEV-PF64",
+    "name": "Filtro de Óleo PF64",
+    "brand": "ACDelco",
+    "car_brand": "Chevrolet",
+    "category": "Lubrificação",
+    "vehicle": "S10 • Trailblazer • Onix 1.0T",
+    "version": "1.1"
+  },
+  {
+    "code": "CHEV-22924782",
+    "name": "Pastilha de Freio Dianteira 22924782",
+    "brand": "ACDelco",
+    "car_brand": "Chevrolet",
+    "category": "Freios",
+    "vehicle": "Cruze 1.4T • Onix Plus",
+    "version": "1.0"
+  },
+  {
+    "code": "CHEV-13272719",
+    "name": "Filtro de Ar do Motor 13272719",
+    "brand": "ACDelco",
+    "car_brand": "Chevrolet",
+    "category": "Admissão",
+    "vehicle": "Cobalt • Spin • Onix 1.4",
+    "version": "1.0"
+  },
+  {
+    "code": "FIAT-71754576",
+    "name": "Correia Dentada 71754576",
+    "brand": "Gates PowerGrip",
+    "car_brand": "Fiat",
+    "category": "Transmissão",
+    "vehicle": "Ducato 2.3 Multijet",
+    "version": "2.0"
+  },
+  {
+    "code": "FIAT-55260384",
+    "name": "Filtro de Óleo 55260384",
+    "brand": "MOPAR",
+    "car_brand": "Fiat",
+    "category": "Lubrificação",
+    "vehicle": "Argo • Cronos 1.3/1.0",
+    "version": "1.0"
+  },
+  {
+    "code": "FIAT-77363693",
+    "name": "Pastilha de Freio Dianteira 77363693",
+    "brand": "TRW",
+    "car_brand": "Fiat",
+    "category": "Freios",
+    "vehicle": "Toro • Argo • Cronos",
+    "version": "1.0"
+  },
+  {
+    "code": "FORD-ABDX1882",
+    "name": "Pastilha de Freio Dianteira ABDX1882",
+    "brand": "Motorcraft",
+    "car_brand": "Ford",
+    "category": "Freios",
+    "vehicle": "Ranger 3.2/2.2",
+    "version": "1.0"
+  },
+  {
+    "code": "FORD-YL8Z-6731-BA",
+    "name": "Filtro de Óleo YL8Z-6731-BA",
+    "brand": "Motorcraft",
+    "car_brand": "Ford",
+    "category": "Lubrificação",
+    "vehicle": "Focus/Fiesta 1.6/2.0",
+    "version": "1.0"
+  },
+  {
+    "code": "FORD-2S6U-9601-AA",
+    "name": "Filtro de Ar do Motor 2S6U-9601-AA",
+    "brand": "Motorcraft",
+    "car_brand": "Ford",
+    "category": "Admissão",
+    "vehicle": "Fiesta/Ecosport 1.6",
+    "version": "1.0"
+  },
+  {
+    "code": "HON-15400-RTA-003",
+    "name": "Filtro de Óleo 15400-RTA-003",
+    "brand": "Honda Genuine",
+    "car_brand": "Honda",
+    "category": "Lubrificação",
+    "vehicle": "Civic 1.8/2.0 • HR-V",
+    "version": "1.0"
+  },
+  {
+    "code": "HON-45022-TFO-000",
+    "name": "Pastilha de Freio Dianteira 45022-TFO-000",
+    "brand": "Honda Genuine",
+    "car_brand": "Honda",
+    "category": "Freios",
+    "vehicle": "Civic G9 • HR-V",
+    "version": "1.0"
+  },
+  {
+    "code": "HON-17220-R1A-A01",
+    "name": "Filtro de Ar 17220-R1A-A01",
+    "brand": "Honda Genuine",
+    "car_brand": "Honda",
+    "category": "Admissão",
+    "vehicle": "Civic 1.8 • 2.0",
+    "version": "1.0"
+  },
+  {
+    "code": "HYU-26300-35503",
+    "name": "Filtro de Óleo 26300-35503",
+    "brand": "Hyundai Mobis",
+    "car_brand": "Hyundai",
+    "category": "Lubrificação",
+    "vehicle": "HB20/Creta 1.0/1.6",
+    "version": "1.0"
+  },
+  {
+    "code": "HYU-28113-2S000",
+    "name": "Filtro de Ar 28113-2S000",
+    "brand": "Hyundai Mobis",
+    "car_brand": "Hyundai",
+    "category": "Admissão",
+    "vehicle": "HB20 1.6 • Creta 1.6",
+    "version": "1.0"
+  },
+  {
+    "code": "HYU-97133-2E210",
+    "name": "Filtro de Cabine 97133-2E210",
+    "brand": "Hyundai Mobis",
+    "car_brand": "Hyundai",
+    "category": "Climatização",
+    "vehicle": "HB20/Creta",
+    "version": "1.0"
+  },
+  {
+    "code": "NIS-AY040-NS106",
+    "name": "Pastilha de Freio Dianteira AY040-NS106",
+    "brand": "Nissan Genuine",
+    "car_brand": "Nissan",
+    "category": "Freios",
+    "vehicle": "Kicks • Versa",
+    "version": "1.0"
+  },
+  {
+    "code": "NIS-15208-65F0A",
+    "name": "Filtro de Óleo 15208-65F0A",
+    "brand": "Nissan Genuine",
+    "car_brand": "Nissan",
+    "category": "Lubrificação",
+    "vehicle": "March/Versa 1.0/1.6",
+    "version": "1.0"
+  },
+  {
+    "code": "NIS-27277-1KA0A",
+    "name": "Filtro de Cabine 27277-1KA0A",
+    "brand": "Nissan Genuine",
+    "car_brand": "Nissan",
+    "category": "Climatização",
+    "vehicle": "Kicks/Versa",
+    "version": "1.0"
+  },
+  {
+    "code": "PEU-1609423780",
+    "name": "Filtro de Cabine 1609423780",
+    "brand": "MANN-FILTER",
+    "car_brand": "Peugeot",
+    "category": "Climatização",
+    "vehicle": "208/2008",
+    "version": "1.0"
+  },
+  {
+    "code": "PEU-1611154980",
+    "name": "Filtro de Óleo 1611154980",
+    "brand": "Peugeot Genuine",
+    "car_brand": "Peugeot",
+    "category": "Lubrificação",
+    "vehicle": "208/2008 1.6 • 1.2",
+    "version": "1.0"
+  },
+  {
+    "code": "PEU-1612714180",
+    "name": "Filtro de Ar 1612714180",
+    "brand": "Peugeot Genuine",
+    "car_brand": "Peugeot",
+    "category": "Admissão",
+    "vehicle": "208 1.6 • 1.2",
+    "version": "1.0"
+  },
+  {
+    "code": "REN-7701476502",
+    "name": "Filtro de Ar 7701476502",
+    "brand": "Renault Genuine",
+    "car_brand": "Renault",
+    "category": "Admissão",
+    "vehicle": "Sandero/Logan 1.0/1.6",
+    "version": "1.0"
+  },
+  {
+    "code": "REN-272773440R",
+    "name": "Filtro de Cabine 272773440R",
+    "brand": "Renault Genuine",
+    "car_brand": "Renault",
+    "category": "Climatização",
+    "vehicle": "Sandero/Logan",
+    "version": "1.0"
+  },
+  {
+    "code": "REN-8200768913",
+    "name": "Filtro de Óleo 8200768913",
+    "brand": "Renault Genuine",
+    "car_brand": "Renault",
+    "category": "Lubrificação",
+    "vehicle": "1.0/1.6 8v/16v",
+    "version": "1.0"
+  },
+  {
+    "code": "TOY-90915-YZZE2",
+    "name": "Filtro de Óleo 90915-YZZE2",
+    "brand": "Toyota Genuine",
+    "car_brand": "Toyota",
+    "category": "Lubrificação",
+    "vehicle": "Corolla/Etios/Yaris 1.5–2.0",
+    "version": "1.0"
+  },
+  {
+    "code": "TOY-17801-0D020",
+    "name": "Filtro de Ar 17801-0D020",
+    "brand": "Toyota Genuine",
+    "car_brand": "Toyota",
+    "category": "Admissão",
+    "vehicle": "Yaris/Etios 1.3/1.5",
+    "version": "1.0"
+  },
+  {
+    "code": "TOY-04465-0D090",
+    "name": "Pastilha de Freio Dianteira 04465-0D090",
+    "brand": "Toyota Genuine",
+    "car_brand": "Toyota",
+    "category": "Freios",
+    "vehicle": "Yaris/Etios",
+    "version": "1.0"
+  },
+  {
+    "code": "VW-1K0698151J",
+    "name": "Pastilha de Freio Dianteira 1K0698151J",
+    "brand": "TRW",
+    "car_brand": "Volkswagen",
+    "category": "Freios",
+    "vehicle": "Golf V/VI • Jetta",
+    "version": "1.0"
+  },
+  {
+    "code": "VW-06J115403Q",
+    "name": "Filtro de Óleo 06J115403Q",
+    "brand": "Volkswagen Genuine",
+    "car_brand": "Volkswagen",
+    "category": "Lubrificação",
+    "vehicle": "1.4 TSI • 2.0 TSI",
+    "version": "1.0"
+  },
+  {
+    "code": "VW-1K0819653B",
+    "name": "Filtro de Cabine 1K0819653B",
+    "brand": "Volkswagen Genuine",
+    "car_brand": "Volkswagen",
+    "category": "Climatização",
+    "vehicle": "Golf/Jetta/Tiguan",
+    "version": "1.0"
+  }
+]

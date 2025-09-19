@@ -1,0 +1,28 @@
+:root{--bg:#0b1020;--surface:#0e1528;--text:#e8eef7;--sub:#9fb3d0;--brand:#77aaff;--line:#1f2a44;--btn:#1a2744}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+a{color:var(--brand);text-decoration:none}
+header{position:sticky;top:0;background:#121a2b;border-bottom:1px solid var(--line);z-index:50}
+.header-inner{max-width:1200px;margin:0 auto;display:flex;align-items:center;gap:16px;padding:12px 16px}
+.header-inner img{height:28px}
+.nav a{font-weight:700;padding:10px 14px;border-radius:10px;border:1px solid #223456;background:transparent;color:#cfe0fb}
+.nav a:hover{background:#1a2744}
+.container{max-width:1200px;margin:0 auto;padding:24px 16px}
+.hero{display:grid;grid-template-columns:1.2fr 1fr;gap:20px;align-items:center;padding:28px 0}
+.hero img{width:100%;border:1px solid var(--line);border-radius:16px;box-shadow:0 12px 40px rgba(0,0,0,.35)}
+h1{font-size:34px;margin:0 0 8px}.sub{color:var(--sub);font-size:18px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:18px;box-shadow:0 8px 24px rgba(0,0,0,.25)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+.btn{display:inline-flex;gap:8px;align-items:center;padding:14px 18px;font-weight:800;background:var(--btn);border:1px solid #2a3b66;border-radius:12px;color:#cfe0fb;font-size:18px}
+.btn:hover{background:#203056}
+.input{width:100%;padding:14px 16px;font-size:18px;border-radius:12px;border:1px solid var(--line);background:#0c1426;color:var(--text)}
+.filters{display:flex;flex-wrap:wrap;gap:8px}
+.filter-chip{padding:8px 12px;border-radius:999px;border:1px solid #2a3b66;background:#0d1730;color:#cfe0fb;cursor:pointer}
+.filter-chip a{color:#cfe0fb;text-decoration:none}
+.item{background:#0c1426;border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.item img{width:100%;height:180px;object-fit:cover;border-bottom:1px solid var(--line)}
+.item .meta{padding:12px 14px;font-size:16px}
+.section-title{font-size:22px;margin:16px 0 8px}
+.brand-group{margin:12px 0 24px}
+.footer{text-align:center;padding:28px 0;color:var(--sub)}
+@media (max-width:900px){.hero{grid-template-columns:1fr}.btn{font-size:16px;padding:12px 16px}}
+.manual h2{font-size:26px;margin-top:6px}.manual p,.manual li{font-size:18px;line-height:1.6}.step{background:#0b162b;padding:10px 12px;border:1px solid #1b2a4b;border-radius:10px;margin:8px 0}

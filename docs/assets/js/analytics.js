@@ -1,0 +1,1 @@
+window.addEventListener('DOMContentLoaded',()=>console.log('[analytics] pageview',location.pathname));
